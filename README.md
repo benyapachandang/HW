@@ -1,7 +1,7 @@
 # Homework
 #
 sudo su : การเข้าไปในรูทข้อมูลนั้นๆ 
-# mkdir : เป็นคำสั่งที่ใช้สำหรับการสร้าง directory มาจากคำว่า make directory
+#mkdir : เป็นคำสั่งที่ใช้สำหรับการสร้าง directory มาจากคำว่า make directory
 # cd เป็นคำสั่งที่ใช้ในการย้่าย directory
 # echo เป็นคำสั่งที่ใช้ในการแสดงผล
 # git init ไว้สร้าง Git repository
