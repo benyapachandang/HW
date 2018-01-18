@@ -1,5 +1,5 @@
 # Homework
-> sudo su : การเข้าไปในรูทข้อมูลนั้นๆ 
+ sudo su : การเข้าไปในรูทข้อมูลนั้นๆ 
 >>> echo : ใช้ในการแสดงผล
 >>> mkdir : คำสั่งสร้าง directory 
 >>> git  init : สร้าง Git 
