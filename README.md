@@ -1,5 +1,4 @@
 # Homework
-#
 -> sudo su : การเข้าไปในรูทข้อมูลนั้นๆ 
 #mkdir : เป็นคำสั่งที่ใช้สำหรับการสร้าง directory มาจากคำว่า make directory
 # cd เป็นคำสั่งที่ใช้ในการย้่าย directory
